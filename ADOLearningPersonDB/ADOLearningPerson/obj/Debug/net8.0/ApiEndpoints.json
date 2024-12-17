@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ADOLearningPerson.Controllers.PersonController",
+    "Method": "GetAllPersons",
+    "RelativePath": "api/Person",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ADOLearningPerson.Controllers.PersonController",
+    "Method": "AddPerson",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "ADOLearningPerson.Models.Person",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
