@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\c# learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj": {}
+    "F:\\ADO-.Net-Learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj": {}
   },
   "projects": {
-    "F:\\c# learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj": {
+    "F:\\ADO-.Net-Learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\c# learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj",
+        "projectUniqueName": "F:\\ADO-.Net-Learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj",
         "projectName": "ADOLearningPerson",
-        "projectPath": "F:\\c# learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj",
+        "projectPath": "F:\\ADO-.Net-Learning\\ADOLearningPersonDB\\ADOLearningPerson\\ADOLearningPerson.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "F:\\c# learning\\ADOLearningPersonDB\\ADOLearningPerson\\obj\\",
+        "outputPath": "F:\\ADO-.Net-Learning\\ADOLearningPersonDB\\ADOLearningPerson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,6 @@
+@Day_2_ADO_Data_adapter__SchoolDB__HostAddress = http://localhost:5240
+
+GET {{Day_2_ADO_Data_adapter__SchoolDB__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

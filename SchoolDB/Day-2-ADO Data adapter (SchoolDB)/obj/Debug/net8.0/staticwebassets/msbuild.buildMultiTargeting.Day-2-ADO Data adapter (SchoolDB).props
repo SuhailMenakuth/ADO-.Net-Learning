@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Day-2-ADO Data adapter (SchoolDB).props" />
+</Project>

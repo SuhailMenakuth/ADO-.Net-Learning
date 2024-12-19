@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\obj\\Release",
+    "\\Services"
   ],
-  "SelectedNode": "\\ADOLearningPerson.http",
+  "SelectedNode": "\\Services\\PersonService.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADOLearningPerson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a4ef4f6a5f2e2376654943f5f9638ecd51e88b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADOLearningPerson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADOLearningPerson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
