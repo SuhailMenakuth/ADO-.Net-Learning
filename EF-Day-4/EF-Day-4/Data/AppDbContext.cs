@@ -16,7 +16,7 @@ namespace EF_Day_4.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Configure the Price column to have a precision of 18 and scale of 2
+            
            
             modelBuilder.Entity<Product>()
                 .Property(p => p.Price)
